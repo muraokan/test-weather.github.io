@@ -1,4 +1,4 @@
-script>
+<script>
 $(document).ready(function() {
     $("#submit").click(function (e) {
         //JSONデータ取得 日本語で天気名を表示したいのでlang=ja　として日本語表記データを取得
